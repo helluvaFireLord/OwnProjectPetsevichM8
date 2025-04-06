@@ -24,7 +24,6 @@
 - Добавление записи в таблицу `Lessons` с указанием `group_id`:
 
 3. **Запуск бота:**
-- Установка зависимости: `pip install -r requirements.txt`
 - Назначение токена в `config.py`
 - Запуск: `python main.py`
 
